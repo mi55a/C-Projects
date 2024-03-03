@@ -4,4 +4,5 @@ project(cprojects)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(C___Projects restaurantBill.cpp
-        mpg.cpp)
+        mpg.cpp
+        stadiumSeating.cpp)
