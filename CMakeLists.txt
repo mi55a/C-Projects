@@ -7,4 +7,6 @@ add_executable(C___Projects restaurantBill.cpp
         mpg.cpp
         stadiumSeating.cpp
         wordGame.cpp
-        bmi.cpp)
+        bmi.cpp
+        massandWeight.cpp
+)
