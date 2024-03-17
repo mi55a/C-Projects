@@ -85,6 +85,30 @@ build CMakeFiles/C___Projects.dir/massandWeight.cpp.o: CXX_COMPILER__C___Project
   OBJECT_DIR = CMakeFiles/C___Projects.dir
   OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
 
+build CMakeFiles/C___Projects.dir/magicDates.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/magicDates.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/magicDates.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
+build CMakeFiles/C___Projects.dir/monthlyMessage.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/monthlyMessage.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/monthlyMessage.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
+build CMakeFiles/C___Projects.dir/monthlyMSG.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/monthlyMSG.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/monthlyMSG.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
+build CMakeFiles/C___Projects.dir/sumofNumbers.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/sumofNumbers.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/sumofNumbers.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C___Projects
@@ -93,7 +117,7 @@ build CMakeFiles/C___Projects.dir/massandWeight.cpp.o: CXX_COMPILER__C___Project
 #############################################
 # Link the executable C___Projects
 
-build C___Projects: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/restaurantBill.cpp.o CMakeFiles/C___Projects.dir/mpg.cpp.o CMakeFiles/C___Projects.dir/stadiumSeating.cpp.o CMakeFiles/C___Projects.dir/wordGame.cpp.o CMakeFiles/C___Projects.dir/bmi.cpp.o CMakeFiles/C___Projects.dir/massandWeight.cpp.o
+build C___Projects: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/restaurantBill.cpp.o CMakeFiles/C___Projects.dir/mpg.cpp.o CMakeFiles/C___Projects.dir/stadiumSeating.cpp.o CMakeFiles/C___Projects.dir/wordGame.cpp.o CMakeFiles/C___Projects.dir/bmi.cpp.o CMakeFiles/C___Projects.dir/massandWeight.cpp.o CMakeFiles/C___Projects.dir/magicDates.cpp.o CMakeFiles/C___Projects.dir/monthlyMessage.cpp.o CMakeFiles/C___Projects.dir/monthlyMSG.cpp.o CMakeFiles/C___Projects.dir/sumofNumbers.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/C___Projects.dir
   POST_BUILD = :

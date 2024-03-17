@@ -9,4 +9,8 @@ add_executable(C___Projects restaurantBill.cpp
         wordGame.cpp
         bmi.cpp
         massandWeight.cpp
+        magicDates.cpp
+        monthlyMessage.cpp
+        monthlyMSG.cpp
+        sumofNumbers.cpp
 )
