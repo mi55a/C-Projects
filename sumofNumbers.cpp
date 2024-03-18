@@ -16,6 +16,7 @@ int main() {
         cout << "Hello user, please enter a positive integer: " << endl;
         cin >> number;
     }
+    // displays number
     cout << "Your number is: " << number << endl;
     // for loop
     for(int i = 1;i <= number;i++) {
