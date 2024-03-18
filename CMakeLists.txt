@@ -14,4 +14,5 @@ add_executable(C___Projects restaurantBill.cpp
         monthlyMSG.cpp
         sumofNumbers.cpp
         membershipFees.cpp
+        distanceTraveled.cpp
 )
