@@ -13,6 +13,7 @@ int main() {
     // loop
     for(int i = 1; i <= 6; i++) {
         newMember *= (1+raise);
+        // displays results for the next 6 years
         cout << "Year: " << i << " and membership price:$ "<< newMember << endl;
     }
 
