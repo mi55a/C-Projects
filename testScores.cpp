@@ -16,7 +16,7 @@ int main() {
     float fourthScore;
     float fifthScore;
 
-    // welcoming user and getting input from user. After getting input, it calls grade function
+    // welcoming user and getting input from user. After getting input, it calls grade function for each input
     cout << "Welcome user to the test score calculator! It'll give each test a grade and the average of all your exams!" << endl;
     cout << "Type first score: " << endl;
     cin >> firstScore;
@@ -49,7 +49,7 @@ float calcAverage(float first, float second, float third, float fourth, float fi
     cout << "Your test score average is: " << averageTest << endl;
 }
 void determineGrade(float test) {
-    // conditional for test grade
+    // conditional for test grades
     if (test >= 90 && test <= 100) {
         cout << "Your grade is an A!" << endl;
     } else if (test >= 80 && test < 90) {
