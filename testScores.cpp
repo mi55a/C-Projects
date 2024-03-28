@@ -48,8 +48,9 @@ float calcAverage(float first, float second, float third, float fourth, float fi
 
     cout << "Your test score average is: " << averageTest << endl;
 }
+// second function
 void determineGrade(float test) {
-    // conditional for test grades
+    // conditional for test grades and displays result
     if (test >= 90 && test <= 100) {
         cout << "Your grade is an A!" << endl;
     } else if (test >= 80 && test < 90) {
