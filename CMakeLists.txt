@@ -19,4 +19,5 @@ add_executable(C___Projects restaurantBill.cpp
         numberGuess.cpp
         totalSales.cpp
         daysMonth.cpp
+        rainfall.cpp
 )
