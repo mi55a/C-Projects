@@ -20,4 +20,5 @@ add_executable(C___Projects restaurantBill.cpp
         totalSales.cpp
         daysMonth.cpp
         rainfall.cpp
+        vowelsAndCon.cpp
 )
