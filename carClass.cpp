@@ -7,15 +7,18 @@ using namespace std;
 // Car class
 class Car {
 public:
-    // variables for the class
     int year;
     string make;
     int speed;
-    // constructor, 0 initialized for speed in parameter)
-    Car(int x, string y, int z = 0) {
-        year = x;
-        make = y;
-        speed = z;
+
+
+// variables for the class
+
+    // constructor
+    Car(int carYear, string carMake) {
+        year = carYear;
+        make = carMake;
+        speed = 0;
     }
     // getter functions
     int getYear() {
@@ -47,19 +50,18 @@ public:
 };
 int main() {
     // sample object
-    Car firstCar(2024, "BMW", 300);
-    firstCar.accelerate();
-    firstCar.accelerate();
-    firstCar.accelerate();
-    firstCar.accelerate();
-    firstCar.accelerate();
+    Car firstCar(2024, "BMW");
+    firstCar.speed = 300;
+
+    // loops
+    for(int i = 0; i < 5;i++) {
+        firstCar.accelerate();
+    }
     // displays result for speed after 5 accelerate functions
     cout << "Current speed: " << firstCar.getSpeed() << endl;
-    firstCar.brake();
-    firstCar.brake();
-    firstCar.brake();
-    firstCar.brake();
-    firstCar.brake();
+    for(int i = 0; i < 5;i++) {
+        firstCar.brake();
+    }
     // displays result for speed after 5 brake functions
     cout << "Current speed: " << firstCar.getSpeed() << endl;
     // prints object
