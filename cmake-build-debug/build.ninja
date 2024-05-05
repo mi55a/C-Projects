@@ -157,6 +157,36 @@ build CMakeFiles/C___Projects.dir/vowelsAndCon.cpp.o: CXX_COMPILER__C___Projects
   OBJECT_DIR = CMakeFiles/C___Projects.dir
   OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
 
+build CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSales.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Downloads/corporateSales.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSales.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads
+
+build CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/newdummyFile.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Downloads/newdummyFile.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/newdummyFile.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads
+
+build CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSalesCode.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Downloads/corporateSalesCode.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSalesCode.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir/Users/milymendez/Downloads
+
+build CMakeFiles/C___Projects.dir/corporateSalesFile.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/corporateSalesFile.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/corporateSalesFile.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
+build CMakeFiles/C___Projects.dir/carClass.cpp.o: CXX_COMPILER__C___Projects_unscanned_Debug /Users/milymendez/Documents/C++$ Projects/carClass.cpp || cmake_object_order_depends_target_C___Projects
+  DEP_FILE = CMakeFiles/C___Projects.dir/carClass.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C___Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___Projects.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C___Projects
@@ -165,7 +195,7 @@ build CMakeFiles/C___Projects.dir/vowelsAndCon.cpp.o: CXX_COMPILER__C___Projects
 #############################################
 # Link the executable C___Projects
 
-build C___Projects: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/restaurantBill.cpp.o CMakeFiles/C___Projects.dir/mpg.cpp.o CMakeFiles/C___Projects.dir/stadiumSeating.cpp.o CMakeFiles/C___Projects.dir/wordGame.cpp.o CMakeFiles/C___Projects.dir/bmi.cpp.o CMakeFiles/C___Projects.dir/massandWeight.cpp.o CMakeFiles/C___Projects.dir/magicDates.cpp.o CMakeFiles/C___Projects.dir/monthlyMessage.cpp.o CMakeFiles/C___Projects.dir/monthlyMSG.cpp.o CMakeFiles/C___Projects.dir/sumofNumbers.cpp.o CMakeFiles/C___Projects.dir/membershipFees.cpp.o CMakeFiles/C___Projects.dir/distanceTraveled.cpp.o CMakeFiles/C___Projects.dir/testScores.cpp.o CMakeFiles/C___Projects.dir/numberGuess.cpp.o CMakeFiles/C___Projects.dir/totalSales.cpp.o CMakeFiles/C___Projects.dir/daysMonth.cpp.o CMakeFiles/C___Projects.dir/rainfall.cpp.o CMakeFiles/C___Projects.dir/vowelsAndCon.cpp.o
+build C___Projects: CXX_EXECUTABLE_LINKER__C___Projects_Debug CMakeFiles/C___Projects.dir/restaurantBill.cpp.o CMakeFiles/C___Projects.dir/mpg.cpp.o CMakeFiles/C___Projects.dir/stadiumSeating.cpp.o CMakeFiles/C___Projects.dir/wordGame.cpp.o CMakeFiles/C___Projects.dir/bmi.cpp.o CMakeFiles/C___Projects.dir/massandWeight.cpp.o CMakeFiles/C___Projects.dir/magicDates.cpp.o CMakeFiles/C___Projects.dir/monthlyMessage.cpp.o CMakeFiles/C___Projects.dir/monthlyMSG.cpp.o CMakeFiles/C___Projects.dir/sumofNumbers.cpp.o CMakeFiles/C___Projects.dir/membershipFees.cpp.o CMakeFiles/C___Projects.dir/distanceTraveled.cpp.o CMakeFiles/C___Projects.dir/testScores.cpp.o CMakeFiles/C___Projects.dir/numberGuess.cpp.o CMakeFiles/C___Projects.dir/totalSales.cpp.o CMakeFiles/C___Projects.dir/daysMonth.cpp.o CMakeFiles/C___Projects.dir/rainfall.cpp.o CMakeFiles/C___Projects.dir/vowelsAndCon.cpp.o CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSales.cpp.o CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/newdummyFile.cpp.o CMakeFiles/C___Projects.dir/Users/milymendez/Downloads/corporateSalesCode.cpp.o CMakeFiles/C___Projects.dir/corporateSalesFile.cpp.o CMakeFiles/C___Projects.dir/carClass.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/C___Projects.dir
   POST_BUILD = :

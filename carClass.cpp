@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+// Car class
 class Car {
 public:
     // variables for the class

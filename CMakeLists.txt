@@ -21,4 +21,11 @@ add_executable(C___Projects restaurantBill.cpp
         daysMonth.cpp
         rainfall.cpp
         vowelsAndCon.cpp
+        ../../Downloads/corporateSales.cpp
+        ../../Downloads/newdummyFile.cpp
+        ../../Downloads/corporateSalesCode.cpp
+        corporateSalesFile.cpp
+        corporateSalesFile.cpp
+        corporateSalesFile.cpp
+        carClass.cpp
 )
