@@ -56,14 +56,16 @@ int main() {
     // loops
     for(int i = 0; i < 5;i++) {
         firstCar.accelerate();
+        cout << "Current speed: " << firstCar.getSpeed() << endl;
     }
-    // displays result for speed after 5 accelerate functions
-    cout << "Current speed: " << firstCar.getSpeed() << endl;
+    // displays result for speed after accelerate function
+
     for(int i = 0; i < 5;i++) {
         firstCar.brake();
+        cout << "Current speed: " << firstCar.getSpeed() << endl;
     }
-    // displays result for speed after 5 brake functions
-    cout << "Current speed: " << firstCar.getSpeed() << endl;
+    // displays result for speed after brake function
+
     // prints object
     firstCar.print();
 
